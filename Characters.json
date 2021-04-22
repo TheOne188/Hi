@@ -2,7 +2,11 @@
     "json": [
         {
             "name": "Boruto Uzumaki",
-            "type": "Sarada Uchiha"
+            "type": "valB"
+        },
+        {
+            "name": "Sarada Uchiha",
+            "type": "valB"
         },
         {
             "name": "Mitsuki",
