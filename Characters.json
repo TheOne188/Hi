@@ -2,347 +2,433 @@
     "json": [
         {
             "name": "Boruto Uzumaki",
-            "type": "valB"
+            "type": "valB",
+            "id": 1
         },
         {
             "name": "Sarada Uchiha",
-            "type": "valB"
+            "type": "valB",
+            "id": 2
         },
         {
             "name": "Mitsuki",
-            "type": "valB"
+            "type": "valB",
+            "id": 3
         },
         {
             "name": "Naruto Uzumaki [Seventh Hokage]",
-            "type": "valB"
+            "type": "valB",
+            "id": 4
         },
         {
             "name": "Sasuke Uchiha",
-            "type": "valB"
+            "type": "valB",
+            "id": 5
         },
         {
             "name": "Sakura Uchiha",
-            "type": "valB"
+            "type": "valB",
+            "id": 6
         },
         {
             "name": "Naruto Uzumaki",
-            "type": "valB"
+            "type": "valB",
+            "id": 7
         },
         {
             "name": "Sasuke Uchiha [Hebi]",
-            "type": "valB"
+            "type": "valB",
+            "id": 8
         },
         {
             "name": "Sakura Haruno",
-            "type": "valB"
+            "type": "valB",
+            "id": 9
         },
         {
             "name": "Shikamaru Nara",
-            "type": "valB"
+            "type": "valB",
+            "id": 10
         },
         {
             "name": "Ino Yamanaka",
-            "type": "valB"
+            "type": "valB",
+            "id": 11
         },
         {
             "name": "Choji Akimichi",
-            "type": "valB"
+            "type": "valB",
+            "id": 12
         },
         {
             "name": "Kiba Inuzuka",
-            "type": "valB"
+            "type": "valB",
+            "id": 13
         },
         {
             "name": "Shino Aburame",
-            "type": "valB"
+            "type": "valB",
+            "id": 14
         },
         {
             "name": "Hinata Hyuga",
-            "type": "valB"
+            "type": "valB",
+            "id": 15
         },
         {
             "name": "Neji Hyuga",
-            "type": "valB"
+            "type": "valB",
+            "id": 16
         },
         {
             "name": "Tenten",
-            "type": "valB"
+            "type": "valB",
+            "id": 17
         },
         {
             "name": "Rock Lee",
-            "type": "valB"
+            "type": "valB",
+            "id": 18
         },
         {
             "name": "Kakashi Hatake",
-            "type": "valB"
+            "type": "valB",
+            "id": 19
         },
         {
             "name": "Asuma Sarutobi",
-            "type": "valB"
+            "type": "valB",
+            "id": 20
         },
         {
             "name": "Might Guy",
-            "type": "valB"
+            "type": "valB",
+            "id": 21
         },
         {
             "name": "Gaara",
-            "type": "valB"
+            "type": "valB",
+            "id": 22
         },
         {
             "name": "Kankuro",
-            "type": "valB"
+            "type": "valB",
+            "id": 23
         },
         {
             "name": "Temari",
-            "type": "valB"
+            "type": "valB",
+            "id": 24
         },
         {
             "name": "Jiraiya",
-            "type": "valB"
+            "type": "valB",
+            "id": 25
         },
         {
             "name": "Tsunade",
-            "type": "valB"
+            "type": "valB",
+            "id": 26
         },
         {
             "name": "Orochimaru",
-            "type": "valB"
+            "type": "valB",
+            "id": 27
         },
         {
             "name": "Sai",
-            "type": "valB"
+            "type": "valB",
+            "id": 28
         },
         {
             "name": "Yamato",
-            "type": "valB"
+            "type": "valB",
+            "id": 29
         },
         {
             "name": "Karin",
-            "type": "valB"
+            "type": "valB",
+            "id": 30
         },
         {
             "name": "Suigetsu Hozuki",
-            "type": "valB"
+            "type": "valB",
+            "id": 31
         },
         {
             "name": "Jugo",
-            "type": "valB"
+            "type": "valB",
+            "id": 32
         },
         {
             "name": "Hiruzen Sarutobi",
-            "type": "valB"
+            "type": "valB",
+            "id": 33
         },
         {
             "name": "Killer Bee",
-            "type": "valB"
+            "type": "valB",
+            "id": 34
         },
         {
             "name": "Darui",
-            "type": "valB"
+            "type": "valB",
+            "id": 35
         },
         {
             "name": "Sasori",
-            "type": "valB"
+            "type": "valB",
+            "id": 36
         },
         {
             "name": "Deidara",
-            "type": "valB"
+            "type": "valB",
+            "id": 37
         },
         {
             "name": "Kabuto Yakushi",
-            "type": "valB"
+            "type": "valB",
+            "id": 38
         },
         {
             "name": "Haku",
-            "type": "valB"
+            "type": "valB",
+            "id": 39
         },
         {
             "name": "Zabuza Momochi",
-            "type": "valB"
+            "type": "valB",
+            "id": 40
         },
         {
             "name": "Konohamaru Sarutobi",
-            "type": "valB"
+            "type": "valB",
+            "id": 41
         },
         {
             "name": "Ay [Fourth Raikage]",
-            "type": "valB"
+            "type": "valB",
+            "id": 42
         },
         {
             "name": "Itachi Uchiha",
-            "type": "valB"
+            "type": "valB",
+            "id": 43
         },
         {
             "name": "Kisame Hoshigaki",
-            "type": "valB"
+            "type": "valB",
+            "id": 44
         },
         {
             "name": "Kakuzu",
-            "type": "valB"
+            "type": "valB",
+            "id": 45
         },
         {
             "name": "Hidan",
-            "type": "valB"
+            "type": "valB",
+            "id": 46
         },
         {
             "name": "Sasuke Uchiha [Hebi/Black Costume]",
-            "type": "valB"
+            "type": "valB",
+            "id": 47
         },
         {
             "name": "Chiyo",
-            "type": "valB"
+            "type": "valB",
+            "id": 48
         },
         {
             "name": "Naruto Uzumaki [Sage Mode]",
-            "type": "valB"
+            "type": "valB",
+            "id": 49
         },
         {
             "name": "Jiraiya [Sage Mode]",
-            "type": "valB"
+            "type": "valB",
+            "id": 50
         },
         {
             "name": "Pain",
-            "type": "valB"
+            "type": "valB",
+            "id": 51
         },
         {
             "name": "Naruto Uzumaki [Seventh Hokage",
-            "type": "valB"
+            "type": "valB",
+            "id": 52
         },
         {
             "name": "Konan",
-            "type": "valB"
+            "type": "valB",
+            "id": 53
         },
         {
             "name": "Sasuke Uchiha [Curse Mark Second State]",
-            "type": "valB"
+            "type": "valB",
+            "id": 54
         },
         {
             "name": "Orochimaru [Great Serpent]",
-            "type": "valB"
+            "type": "valB",
+            "id": 55
         },
         {
             "name": "Sarada Uchiha [Familial Bonds]",
-            "type": "valB"
+            "type": "valB",
+            "id": 56
         },
         {
             "name": "Sakura Uchiha [Mother's True Strength]",
-            "type": "valB"
+            "type": "valB",
+            "id": 57
         },
         {
             "name": "Kakashi Hatake [Mangekyo Sharingan]",
-            "type": "valB"
+            "type": "valB",
+            "id": 58
         },
         {
             "name": "Naruto Uzumaki [Berserk]",
-            "type": "valB"
+            "type": "valB",
+            "id": 59
         },
         {
             "name": "Sasori [Human Puppet]",
-            "type": "valB"
+            "type": "valB",
+            "id": 60
         },
         {
             "name": "Deidara [Sublime]",
-            "type": "valB"
+            "type": "valB",
+            "id": 61
         },
         {
             "name": "Tobi",
-            "type": "valB"
+            "type": "valB",
+            "id": 62
         },
         {
             "name": "Itachi Uchiha [Criminal]",
-            "type": "valB"
+            "type": "valB",
+            "id": 63
         },
         {
             "name": "Boruto Uzumaki [True Shinobi]",
-            "type": "valB"
+            "type": "valB",
+            "id": 64
         },
         {
             "name": "Naruto Uzumaki [Unchanging Ninja Way]",
-            "type": "valB"
+            "type": "valB",
+            "id": 65
         },
         {
             "name": "Sasuke Uchiha [Time of Revenge]",
-            "type": "valB"
+            "type": "valB",
+            "id": 66
         },
         {
             "name": "Danzo Shimura",
-            "type": "valB"
+            "type": "valB",
+            "id": 67
         },
         {
             "name": "Naruto Uzumaki",
-            "type": "valB"
+            "type": "valB",
+            "id": 68
         },
         {
             "name": "Sasuke Uchiha [Hebi]",
-            "type": "valB"
+            "type": "valB",
+            "id": 69
         },
         {
             "name": "Gaara [Travel Outfit]",
-            "type": "valB"
+            "type": "valB",
+            "id": 70
         },
         {
             "name": "Kakashi Hatake [Childhood]",
-            "type": "valB"
+            "type": "valB",
+            "id": 71
         },
         {
             "name": "Obito Uchiha [Childhood]",
-            "type": "valB"
+            "type": "valB",
+            "id": 72
         },
         {
             "name": "Minato Namikaze [The Fourth Hokage]",
-            "type": "valB"
+            "type": "valB",
+            "id": 73
         },
         {
             "name": "Naruto Uzumaki [Berserk/Sixth Tail]",
-            "type": "valB"
+            "type": "valB",
+            "id": 74
         },
         {
             "name": "Mitsuki [His Own Path]",
-            "type": "valB"
+            "type": "valB",
+            "id": 74
         },
         {
             "name": "Orochimaru [Parental Love]",
-            "type": "valB"
+            "type": "valB",
+            "id": 76
         },
         {
             "name": "Killer Bee [Version 2]",
-            "type": "valB"
+            "type": "valB",
+            "id": 77
         },
         {
             "name": "Kisame Hoshigaki [Shark Skin Fusion]",
-            "type": "valB"
+            "type": "valB",
+            "id": 78
         },
         {
             "name": "Ohnoki [Third Tsuchikage]",
-            "type": "valB"
+            "type": "valB",
+            "id": 79
         },
         {
             "name": "Mei Terumi [Fifth Mizukage]",
-            "type": "valB"
+            "type": "valB",
+            "id": 80
         },
         {
             "name": "Naruto Uzumaki [Childhood]",
-            "type": "valB"
+            "type": "valB",
+            "id": 81
         },
         {
             "name": "Sasuke Uchiha [Childhood]",
-            "type": "valB"
+            "type": "valB",
+            "id": 82
         },
         {
             "name": "Naruto Uzumaki [Nine Tails Chakra Mode]",
-            "type": "valB"
+            "type": "valB",
+            "id": 83
         },
         {
             "name": "Kushina Uzumaki",
-            "type": "valB"
+            "type": "valB",
+            "id": 84
         },
         {
             "name": "Sakura Haruno [Blossom]",
-            "type": "valB"
+            "type": "valB",
+            "id": 85
         },
         {
             "name": "Naruto Uzumaki [Rinne Festival]",
-            "type": "valB"
+            "type": "valB",
+            "id": 86
         }
     ]
 }
