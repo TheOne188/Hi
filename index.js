@@ -1,6 +1,4 @@
 console.log('hi');
-
-fetch("./Characters.json")
-.then(response => {
-   return response.json();
-}).then(data => console.log(data));
+const data = require('Characters.json');
+var mydata = JSON.parse(data);
+console.log(mydata)
